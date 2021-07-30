@@ -13,8 +13,8 @@
       "Country": "Central African Republic",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women/3.jpg",
-          "isMain": true
+          "Url": "https://randomuser.me/api/portraits/women/3.jpg",
+          "IsMain": true
         }
       ]
     },
@@ -32,8 +32,8 @@
       "Country": "Jordan",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women/2.jpg",
-          "isMain": true
+          "Url": "https://randomuser.me/api/portraits/women/2.jpg",
+          "IsMain": true
         }
       ]
     },
@@ -51,8 +51,8 @@
       "Country": "Spain",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women/10.jpg",
-          "isMain": true
+          "Url": "https://randomuser.me/api/portraits/women/10.jpg",
+          "IsMain": true
         }
       ]
     },
@@ -70,8 +70,8 @@
       "Country": "Senegal",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women/14.jpg",
-          "isMain": true
+          "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+          "IsMain": true
         }
       ]
     },
@@ -89,8 +89,8 @@
       "Country": "Denmark",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women/34.jpg",
-          "isMain": true
+          "Url": "https://randomuser.me/api/portraits/women/34.jpg",
+          "IsMain": true
         }
       ]
     },
@@ -108,8 +108,8 @@
         "Country": "Papua New Guinea",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/16.jpg",
-            "isMain": true
+            "Url": "https://randomuser.me/api/portraits/men/16.jpg",
+            "IsMain": true
         }
         ]
     },
@@ -127,8 +127,8 @@
         "Country": "Portugal",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/94.jpg",
-            "isMain": true
+            "Url": "https://randomuser.me/api/portraits/men/94.jpg",
+            "IsMain": true
         }
         ]
     },
@@ -146,8 +146,8 @@
         "Country": "Switzerland",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/90.jpg",
-            "isMain": true
+            "Url": "https://randomuser.me/api/portraits/men/90.jpg",
+            "IsMain": true
         }
         ]
     },
@@ -165,8 +165,8 @@
         "Country": "Namibia",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/85.jpg",
-            "isMain": true
+            "Url": "https://randomuser.me/api/portraits/men/85.jpg",
+            "IsMain": true
         }
         ]
     },
@@ -184,8 +184,8 @@
         "Country": "Kuwait",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/40.jpg",
-            "isMain": true
+            "Url": "https://randomuser.me/api/portraits/men/40.jpg",
+            "IsMain": true
         }
         ]
     }
