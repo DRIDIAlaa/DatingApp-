@@ -1,5 +1,6 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using AutoMapper;
 
 namespace API.DTOs
 {
